@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElyasHesari
 - 👀 I’m interested in cross-platform language
-- 🌱 I’m currently learning Next.js and Redux
+- 🌱 I’m currently learning vue.js and nuxt
 - 💞️ I’m looking to collaborate on fun project
 - 📫 Email: elyashesari@gmail.com , Phone: (+98) 9156484416 
 
